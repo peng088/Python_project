@@ -1,0 +1,3 @@
+In python you can write while
+In python you can find file
+In python you can read txt
