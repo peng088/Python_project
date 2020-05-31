@@ -15,3 +15,4 @@ def print_lines(row, char, times):
         n += 1
 
 
+name = '皇马参训员'
